@@ -1,0 +1,28 @@
+.container__div {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    color: aliceblue;
+    font-size: 5em;
+  }
+  
+  #div1 {
+    background-color: #3F000E;
+  }
+  
+  #div2 {
+    background-color: #541C2A
+  }
+  
+  #div3 {
+    background-color: #76232F;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
